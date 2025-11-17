@@ -1,1 +1,2 @@
-rmdir
+#!/bin/bash
+rm <filename>
